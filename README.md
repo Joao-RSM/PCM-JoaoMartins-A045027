@@ -10,4 +10,4 @@ Portfolio de Produção de Conteúdos Multimédia
 <br>
 
 ## Trabalhos
-**Exercício 1 (Photopea) 06/10** - https://github.com/Joao-RSM/DIM-JoaoMartins-A045027/blob/main/Tutorial%20Figma.md
+**Exercício 1 (Photopea) 06/10** - https://github.com/Joao-RSM/PCM-JoaoMartins-A045027/blob/main/Exerc%C3%ADcio%201%20-%20Photopea%20(06-10).md
