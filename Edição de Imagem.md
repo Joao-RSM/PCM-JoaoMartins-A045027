@@ -7,7 +7,7 @@
 * [Conjunto I — Exercício B: Pintura ou Ilustração](#conjunto-i--exercício-b-pintura-ou-ilustração)
 * [Conjunto I — Exercício C: Capa de Disco](#conjunto-i--exercício-c-capa-de-disco)
 * [Conjunto II — Exercício X: Anacronismo](#conjunto-ii--exercício-x-anacronismo)
-* [Conjunto II — Exercício X: Anacronismo](#conjunto-iii--exercício-y-cartaz-de-evento)
+* [Conjunto II — Exercício Y: Cartaz de Evento](#conjunto-iii--exercício-y-cartaz-de-evento)
 
 ---
 
