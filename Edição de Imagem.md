@@ -15,7 +15,8 @@
 
 ### 1. Imagem Original e Licença
 - **Ficheiro:** `Dülmen,_Rödder,_Gärtnerei_Wessinghage_--_2021_--_1811.jpg`
-- **Autor / Licença:** `By Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107812601`
+- **Autor / Licença:** `By Dietmar Rabich, CC BY-SA 4.0`
+- **URL:** https://commons.wikimedia.org/w/index.php?curid=107812601
 
 Imagem Original Exercício A
 <img width="1445" height="964" alt="imagem" src="https://github.com/user-attachments/assets/5a04ccaa-9099-4710-8f8d-e0257f6dbabb"/>
@@ -47,7 +48,8 @@ Imagem Original Exercício A
 
 ### 1. Imagem Original e Licença
 - **Ficheiro:** `D-6-74-149-42_Kirchhofbefestigung_Goßmannsdorf.jpg`
-- **Autor / Licença:** `By Stephan van Helden - Own work   This photo was taken with Ricoh GR III, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=174115136`
+- **Autor / Licença:** `By Stephan van Helden - Own work   This photo was taken with Ricoh GR III, CC BY-SA 4.0`
+- **URL:** https://commons.wikimedia.org/w/index.php?curid=174115136
 
 Imagem Original Exercício B
 <img width="1076" height="962" alt="imagem" src="https://github.com/user-attachments/assets/e6dee804-ad79-44f5-8d22-3029d10783b7" />
@@ -72,7 +74,8 @@ Imagem Original Exercício B
 
 ### 1. Imagem Original e Licença
 - **Ficheiro:** `Daft_Punk_in_2013.jpg`
-- **Autor / Licença:** `By Sony Music Entertainment - https://www.mynewsdesk.com/se/sonybmg/images/daft-punk-pressbild-202957, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=131416978`
+- **Autor / Licença:** `By Sony Music Entertainment - https://www.mynewsdesk.com/se/sonybmg/images/daft-punk-pressbild-202957, CC BY 4.0`
+- **URL:** https://commons.wikimedia.org/w/index.php?curid=131416978
 
 Imagem Original Exercício C
 <img width="1282" height="964" alt="imagem" src="https://github.com/user-attachments/assets/21c45edc-9849-42ea-8c85-45131f7030da" />
@@ -98,6 +101,7 @@ Imagem Original Exercício C
 ### 1. Imagem Original e Licença
 - **Ficheiro:** `Europeana.eu-15512-https___id_kulturpool_at_f80388c8_caeb_4c27_a137_eb9492f0bbfa_cho-7152cacd9444aba6f5f87d4d0b073e94.jpeg`
 - **Autor / Licença:** `Bezirkshauptmannschaft Bregenz por Spang, Oskar - 1968 - Vorarlberg State Library, Austria - CC BY.`
+- **URL:** https://www.europeana.eu/pt/item/15512/https___id_kulturpool_at_f80388c8_caeb_4c27_a137_eb9492f0bbfa_cho
 
 Imagem Original Exercício X
 <img width="1449" height="962" alt="imagem" src="https://github.com/user-attachments/assets/341f1d97-1049-4aef-b8d9-4ee3fda255fd" />
@@ -131,6 +135,7 @@ Imagem Original Exercício X
 ### 1. Imagem Original e Licença
 - **Ficheiro:** `4H_Youth_Career_Fair_2026_(20260413-USDA-NIFA-CDP-1719).jpg`
 - **Autor / Licença:** `USDAgov, Public domain, via Wikimedia Commons`
+- **URL:** https://commons.wikimedia.org/wiki/File:4H_Youth_Career_Fair_2026_(20260413-USDA-NIFA-CDP-1719).jpg
 
 Imagem Original Exercício Y
 <img width="1444" height="964" alt="imagem" src="https://github.com/user-attachments/assets/ef4afc3a-ad4d-47c5-99e2-328a332e3d94" />
