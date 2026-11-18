@@ -1,4 +1,4 @@
-# Caderno Digital — Edição e Composição de Imagem
+# Caderno Digital — Edição de Imagem
 
 > Registo do processo de trabalho, fontes e licenças das imagens utilizadas, etapas de edição no **GIMP** e variações desenvolvidas no âmbito dos **Conjuntos I e II**.
 
