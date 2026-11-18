@@ -34,8 +34,8 @@ Imagem Original Exercício A
 | :---: | :---: | :---: |
 | <img alt="Progresso-1(Noite)" src="https://github.com/user-attachments/assets/14e8521f-c66c-4858-8e1b-0284f13ceaa9" /> | <img alt="Progresso-2(Noite)" src="https://github.com/user-attachments/assets/7d7aad96-9882-430b-b513-5e949f097bb4" /> | <img alt="Progresso-3(Noite)" src="https://github.com/user-attachments/assets/f53b4af9-51b7-4c52-9463-d3b1576d0d32" /> |
 
-### 4. Variação — Correção de Cor Alternativa
-* Variação cromática desenvolvida sobre a composição base, explorando uma temperatura de cor e contraste alternativos.
+### 4. Variação — ...
+* Variação ...
 
 <p align="center">
   <img src="conjunto-1-a-fases-do-dia/variacao-a.jpg" width="650" alt="Variação Exercício A">
@@ -59,8 +59,8 @@ Imagem Original Exercício B
 | :---: | :---: | :---: |
 | <img alt="Progresso-1" src="https://github.com/user-attachments/assets/ff7a753f-4bd1-49f8-a9d1-c9207cd6ff18" /> | <img alt="Progresso-2" src="https://github.com/user-attachments/assets/24b0da86-2a15-4aa4-955a-06bcb29804bd" /> | <img alt="Progresso-3" src="https://github.com/user-attachments/assets/8997eaff-81c2-4a43-800a-1423e1e9c0e1" /> |
 
-### 3. Variação — Estilo / Paleta Alternativa
-* Variação ao nível da saturação, contraste e intensidade do traço pictórico.
+### 3. Variação — ...
+* Variação ...
 
 <p align="center">
   <img src="conjunto-1-b-pintura-ilustracao/variacao-b.jpg" width="650" alt="Variação Exercício B">
@@ -84,8 +84,8 @@ Imagem Original Exercício C
 | :---: | :---: | :---: |
 | <img alt="Progresso-1" src="https://github.com/user-attachments/assets/a9b78a8f-c041-48ce-abbe-70b93739e489" /> | <img alt="Progresso-2" src="https://github.com/user-attachments/assets/23595ef3-f60b-48e9-8223-3cf40effe924" /> | <img alt="Progresso-3" src="https://github.com/user-attachments/assets/b6b79b0c-b2cf-4a0b-8dfd-83def0f53bbf" /> |
 
-### 3. Variação — Tipografia / Composição Cromática
-* Variação alternativa da capa explorando outra combinação cromática e disposição tipográfica.
+### 3. Variação — ...
+* Variação ...
 
 <p align="center">
   <img src="conjunto-1-c-capa-de-disco/variacao-c.jpg" width="650" alt="Variação Exercício C">
@@ -117,8 +117,8 @@ Imagem Original Exercício X
 | :---: | :---: | :---: |
 | <img alt="Progresso9" src="https://github.com/user-attachments/assets/6f31ce07-f65e-40f1-8535-84c02bc0d960" /> | <img alt="Progresso10" src="https://github.com/user-attachments/assets/6068ef2d-2914-49a8-808a-99cbea98c204" /> | <img alt="Progresso11(Pessoa)" src="https://github.com/user-attachments/assets/b525523f-41c2-4994-bbb8-092cd44911e9" /> |
 
-### 3. Variação — Viragem Tonal (Sépia)
-* Aplicação de tonalidade sépia sobre a montagem final para simular papel fotográfico envelhecido.
+### 3. Variação — ...
+* Aplicação ...
 
 <p align="center">
   <img src="conjunto-2-x-anacronismo/variacao-x.jpg" width="650" alt="Variação Exercício X">
@@ -147,8 +147,8 @@ Imagem Original Exercício Y
 | :---: | :---: | :---: | :---: |
 | <img width="1920" height="1043" alt="Progresso5" src="https://github.com/user-attachments/assets/cebb900a-a2d6-4b7a-9d82-e81f3a5e1fd6" /> | <img width="1920" height="1043" alt="Progresso6" src="https://github.com/user-attachments/assets/62e98bad-9c2e-44a9-8bdf-6166fc4d6ff6" /> | <img width="1920" height="1043" alt="Progresso7" src="https://github.com/user-attachments/assets/76d0e523-029f-4e8e-b551-deb3374f8e42" /> | <img width="1920" height="1043" alt="Progresso8" src="https://github.com/user-attachments/assets/cc56e1e2-ef70-4cc1-81a6-a147c2d6de72" /> |
 
-### 3. Variação — Paleta Cromática Alternativa
-- Variação cromática desenvolvida sobre o cartaz final através do ajuste de *Matiz-Saturação* nas camadas de fundo e destaque.
+### 3. Variação — ...
+- Variação ...
 
 <p align="center">
   <img src="conjunto-3-y-cartaz-evento/variacao-y.jpg" width="650" alt="Variação Exercício Y">
