@@ -127,4 +127,29 @@ Imagem Original Exercício X
 ---
 
 ## Conjunto III — Exercício Y: Cartaz de Evento
----
+
+### 1. Imagem Original e Licença
+- **Ficheiro:** `4H_Youth_Career_Fair_2026_(20260413-USDA-NIFA-CDP-1719).jpg`
+- **Autor / Licença:** `USDAgov, Public domain, via Wikimedia Commons`
+
+Imagem Original Exercício Y
+<img width="1444" height="964" alt="imagem" src="https://github.com/user-attachments/assets/ef4afc3a-ad4d-47c5-99e2-328a332e3d94" />
+
+
+### 2. Processo de Execução
+- Composição em formato A3 (`3508 x 4961 px` @ `300 ppi`), criação de fundo azul-escuro em degradê, integração da fotografia com ajuste de opacidade e máscaras de camada com gradiente para transição suave, criação de caixa de detalhes com cantos arredondados e contorno em degradê, composição tipográfica (título, slogan, datas, local e informação de bilheteira), alinhamento simétrico dos logótipos institucionais (IPMAIA e UMAIA) no rodapé e exportação final em **TIFF** sem camadas com compressão *lossless* (**LZW**).
+
+| Progresso 1 | Progresso 2 | Progresso 3 | Progresso 4 |
+| :---: | :---: | :---: | :---: |
+| <img width="1920" height="1043" alt="Progresso1" src="https://github.com/user-attachments/assets/f3109806-c89c-49cb-8c75-2618c2111cc6" /> | <img width="1920" height="1043" alt="Progresso2" src="https://github.com/user-attachments/assets/a731ccd1-1e8d-44e7-86a1-f0889a71ac56" /> | <img width="1920" height="1043" alt="Progresso3" src="https://github.com/user-attachments/assets/6dbaaa44-bc20-4587-a036-0b035c4c76b4" /> | <img width="1920" height="1043" alt="Progresso4" src="https://github.com/user-attachments/assets/2c4ebe27-698c-4b4d-a35b-7aed8a2b3baf" /> |
+
+| Progresso 5 | Progresso 6 | Progresso 7 | Progresso 8 |
+| :---: | :---: | :---: | :---: |
+| <img width="1920" height="1043" alt="Progresso5" src="https://github.com/user-attachments/assets/cebb900a-a2d6-4b7a-9d82-e81f3a5e1fd6" /> | <img width="1920" height="1043" alt="Progresso6" src="https://github.com/user-attachments/assets/62e98bad-9c2e-44a9-8bdf-6166fc4d6ff6" /> | <img width="1920" height="1043" alt="Progresso7" src="https://github.com/user-attachments/assets/76d0e523-029f-4e8e-b551-deb3374f8e42" /> | <img width="1920" height="1043" alt="Progresso8" src="https://github.com/user-attachments/assets/cc56e1e2-ef70-4cc1-81a6-a147c2d6de72" /> |
+
+### 3. Variação — Paleta Cromática Alternativa
+- Variação cromática desenvolvida sobre o cartaz final através do ajuste de *Matiz-Saturação* nas camadas de fundo e destaque.
+
+<p align="center">
+  <img src="conjunto-3-y-cartaz-evento/variacao-y.jpg" width="650" alt="Variação Exercício Y">
+</p>
