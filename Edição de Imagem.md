@@ -123,7 +123,7 @@ Imagem Original Exercício X
 
 ### 3. Variação
 <p align="center">
-  
+  <img width="1451" height="963" alt="image" src="https://github.com/user-attachments/assets/545d4ef0-15b1-4222-99f0-b0e82cf44b8a" />
 </p>
 
 ---
