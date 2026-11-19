@@ -35,7 +35,7 @@ Imagem Original Exercício A
 | :---: | :---: | :---: |
 | <img alt="Progresso-1(Noite)" src="https://github.com/user-attachments/assets/14e8521f-c66c-4858-8e1b-0284f13ceaa9" /> | <img alt="Progresso-2(Noite)" src="https://github.com/user-attachments/assets/7d7aad96-9882-430b-b513-5e949f097bb4" /> | <img alt="Progresso-3(Noite)" src="https://github.com/user-attachments/assets/f53b4af9-51b7-4c52-9463-d3b1576d0d32" /> |
 
-### 4. Variação — ...
+### 4. Variação
 * Variação Tarde
 <img width="1444" height="961" alt="image" src="https://github.com/user-attachments/assets/63411dcc-f6be-4cd2-ad63-35a511ad3cf4" />
 
@@ -152,9 +152,7 @@ Imagem Original Exercício Y
 
 ### 3. Variação 
 <p align="center">
-  
+  <img width="679" height="962" alt="image" src="https://github.com/user-attachments/assets/b7a38af7-1805-4a6b-8154-ea592d50e2e0" />
 </p>
 
-<p align="center">
-  <img src="conjunto-3-y-cartaz-evento/variacao-y.jpg" width="650" alt="Variação Exercício Y">
-</p>
+
